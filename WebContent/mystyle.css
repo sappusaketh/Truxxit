@@ -1,0 +1,84 @@
+div.destinationaddressdiv {
+    position: absolute;
+    top: 130px;
+    right: 230px;
+    width: 450px;
+    height: 200px;
+    padding-left: 10px;   
+    background-color: White;
+}
+div.sourceaddressdiv {
+    position: absolute;
+    top: 130px;
+    left: 230px;
+    width: 450px;
+    height: 200px;
+    padding-left: 10px;
+    background-color: White;
+}
+
+body {
+   background-color: LightGray;
+}
+
+div.userinfodiv{
+	text-align: center;
+}
+
+div.logoutdiv{
+	position: absolute;
+	right:100px;
+	padding-top: 1px;
+}
+
+div.truckdatadiv {
+    position: absolute;
+    top: 380px;
+    left: 230px;
+    width: inherit;
+    height: inherit;
+    padding-left: 10px;
+    background-color: White;
+}
+
+div.submitbuttondiv {
+    position: absolute;
+    top: 500px;
+    right: 400px;
+    width: inherit;
+    height: inherit;
+    background-color: White;
+}
+
+table, td, th {    
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 10px;
+}
+
+div.dynamicpricediv {
+    position: absolute;
+    top: 550px;
+    right: 290px;
+    width: 200px;
+    height: 130px;
+    padding-left: 10px;   
+    background-color: White;
+}
+
+div.confirmbookingdiv {
+    position: absolute;
+    top: 700px;
+    right: 400px;
+    width: 100px;
+    height: inherit;
+    background-color: White;
+}
